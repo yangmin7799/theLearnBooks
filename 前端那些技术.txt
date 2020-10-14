@@ -1,5 +1,19 @@
 1.vue
 2.react
-3.dva: 基于 redux 和 redux-saga 的数据流方案 官网：https://dvajs.com/guide/getting-started.html#%E5%AE%89%E8%A3%85-dva-cli
-4.umi
+3.dva: 基于 redux 和 redux-saga 的数据流方案。 官网：https://dvajs.com/guide/getting-started.html#%E5%AE%89%E8%A3%85-dva-cli
+4.umi：一个可扩展的企业级前端应用框架。 官网：https://umijs.org/zh-CN/docs#umi-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F
+5.next.js
+
+js的项目怎样升级到ts?有影响吗？
+
+ts相对js而言，做大的优势就是：可以在静态类型检查（有类型约束检测）的帮助下，可以在编译阶段就能发现问题。从而提高工作效率和项目质量，编码更加规范。
+
+webpack的配置
+
+node的了解
+
+多元表单spread
+
+
+
 
